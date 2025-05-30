@@ -1,0 +1,137 @@
+.button {
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: white;
+}
+
+.button:hover {
+  box-shadow: -2px -2px 5px 0px white inset;
+  -webkit-box-shadow: -2px -2px 5px 0px white inset;
+  -moz-box-shadow: -2px -2px 5px 0px white inset;
+}
+
+.primary-button {
+  background-color: blue;
+}
+
+.primary-button:hover {
+  background-color: darkblue;
+}
+
+.primary-button:active {
+  background-color: blue;
+}
+
+.primary-button {
+  background-color: blue;
+}
+
+.secondary-button {
+  background-color: gray;
+}
+
+.success-button {
+  background-color: green;
+}
+
+.danger-button {
+  background-color: red;
+}
+
+.warning-button {
+  background-color: orange;
+}
+
+.info-button {
+  background-color: darkcyan;
+}
+
+.primary-button:hover {
+  background-color: darkblue;
+}
+
+.secondary-button:hover {
+  background-color: darkgray;
+}
+
+.success-button:hover {
+  background-color: darkgreen;
+}
+
+.danger-button:hover {
+  background-color: darkred;
+}
+
+.warning-button:hover {
+  background-color: darkorange;
+}
+
+.info-button:hover {
+  background-color: darkslategray;
+}
+
+.primary-button-other {
+  border: 2px solid blue;
+  color: blue;
+  background: transparent;
+}
+
+.secondary-button-other {
+  border: 2px solid gray;
+  color: gray;
+  background: transparent;
+}
+
+.success-button-other {
+  border: 2px solid green;
+  color: green;
+  background: transparent;
+}
+
+.danger-button-other {
+  border: 2px solid red;
+  color: red;
+  background: transparent;
+}
+
+.warning-button-other {
+  border: 2px solid orange;
+  color: orange;
+  background: transparent;
+}
+
+.info-button-other {
+  border: 2px solid teal;
+  color: teal;
+  background: transparent;
+}
+
+.primary-button-other:hover {
+  background: blue;
+  color: white;
+}
+
+.secondary-button-other:hover {
+  background: gray;
+  color: white;
+}
+
+.success-button-other:hover {
+  background: green;
+  color: white;
+}
+
+.danger-button-other:hover {
+  background: red;
+  color: white;
+}
+
+.warning-button-other:hover {
+  background: orange;
+  color: white;
+}
+
+.info-button-other:hover {
+  background: teal;
+  color: white;
+}
